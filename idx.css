@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+    margin: 0 auto;
+    border: 5px solid black;
+}
+img{
+    border-radius: 10px;
+}
+h2:hover{
+color: black;
+}
+   
